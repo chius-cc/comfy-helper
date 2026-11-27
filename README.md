@@ -5,11 +5,11 @@
 A gateway-first FastAPI service for named ComfyUI generation workflows.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![CI](https://github.com/chius-n/comfy-helper/actions/workflows/codeql.yml/badge.svg)](https://github.com/chius-n/comfy-helper/actions)
+[![CI](https://github.com/chius-cc/comfy-helper/actions/workflows/codeql.yml/badge.svg)](https://github.com/chius-cc/comfy-helper/actions)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11+-3776ab?logo=python&logoColor=white)
 
-[Architecture](./docs/architecture.md) · [Issues](https://github.com/chius-n/comfy-helper/issues)
+[Architecture](./docs/architecture.md) · [Issues](https://github.com/chius-cc/comfy-helper/issues)
 
 </div>
 
